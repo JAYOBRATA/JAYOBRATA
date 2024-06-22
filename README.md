@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jayobrata</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+my+GitHub+Profile!)
 
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
